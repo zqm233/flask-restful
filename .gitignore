@@ -1,3 +1,4 @@
 /test/__init__.py
 /log/20200510/service.log
 /log/20200514/service.log
+__pycache__/
