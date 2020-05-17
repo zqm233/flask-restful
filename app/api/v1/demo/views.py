@@ -1,5 +1,5 @@
 from flask_restful import Resource
-from helps import DemoHelper
+from app.api.v1.demo.helps import DemoHelper
 from flask import request
 
 
